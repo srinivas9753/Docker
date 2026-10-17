@@ -9,7 +9,7 @@ My hands-on journey learning Docker: notes, small experiments, and projects.
 ## Contents
 | Folder | Topic | Status |
 |---|---|---|
-| 01-basics | Containers vs VMs, Dockerfile, build/run | 🔄 In progress |
+| 01-basics | Containers vs VMs, Dockerfile, build/run | ✅ Completed |
 | 02-networking-volumes | Networks, volumes, bind mounts | ⏳ Planned |
 | 03-compose | Docker Compose, multi-container apps | ⏳ Planned |
 | 04-multi-stage-builds | Smaller, safer images | ⏳ Planned |
