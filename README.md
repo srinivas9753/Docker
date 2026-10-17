@@ -27,4 +27,4 @@ Each folder has its own README with exact steps.
 See [cheatsheet.md](cheatsheet.md)
 
 ## Author
-Srinivas, DevOps Engineer (Azure, Terraform, CI/CD)
+Srinivas, DevOps Engineer
