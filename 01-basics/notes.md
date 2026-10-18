@@ -60,14 +60,8 @@ Both keep apps separated from each other, but they work differently.
 
 ## 4. Docker architecture (who does what)
 
-```
- Docker Client  ──►  Docker Daemon  ──►  Images / Containers
- (docker ...)        (dockerd)                 ▲
-                          │                    │
-                          └────  Registry (Docker Hub, ACR)
+<img width="1009" height="527" alt="image" src="https://github.com/user-attachments/assets/5ea48be5-ea8d-45e5-949a-4278942922dc" />
 
-    ![alt text](image.png)                      
-```
 
 | Part | Plain meaning |
 |---|---|
